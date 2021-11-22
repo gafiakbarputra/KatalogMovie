@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="button_lang">Bahasa</string>
+    <string name="button_about">Tentang</string>
+</resources>
